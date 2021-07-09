@@ -1,4 +1,4 @@
-# Guia de Estudos Rust Colmeia
+# Estudos em Rust
 
+Repóstiro para estudos da linguagem Rust.
 
-## 
