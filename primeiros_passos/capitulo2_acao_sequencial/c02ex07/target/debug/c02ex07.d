@@ -1,0 +1,1 @@
+/home/mag2/Documentos/Rust/rust_colmeia/primeiros_passos/capitulo2_acao_sequencial/c02ex07/target/debug/c02ex07: /home/mag2/Documentos/Rust/rust_colmeia/primeiros_passos/capitulo2_acao_sequencial/c02ex07/src/main.rs
