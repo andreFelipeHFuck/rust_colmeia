@@ -1,0 +1,1 @@
+/home/mag2/Documentos/Rust/rust_colmeia/primeiros_passos/capitulo3_desvio_condiconal/c03ex10/target/debug/c03ex10: /home/mag2/Documentos/Rust/rust_colmeia/primeiros_passos/capitulo3_desvio_condiconal/c03ex10/src/main.rs

@@ -25,4 +25,23 @@ fn main(){
     io::stdin().read_line(&mut lado_c).unwrap();
     c = lado_c.trim().parse::<f32>().unwrap();
 
+    println!();
+    if a < b + c && b < a + c && c < a + b {
+        if a == b && b == c{
+            println!("Triângulo equilátero.");
+        }else {
+            if a == b || a == c || c == b {
+                println!("Triângulo isóceles.");
+            }else {
+                println!("Triângulo Escaleno");
+            }
+        }
+    }else {
+        println!("Os valores fornecidos não formam um triângulo.")
+    }
+    
+    println!();
+    print!("Tecle <Enter> para encerrar...");
+    io::stdout().flush().unwrap();
+    io::stdin().read(&mut [0u8]).unwrap();
 }
